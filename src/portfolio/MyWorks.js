@@ -1,6 +1,7 @@
 import React from 'react';
 import style from "../skills/Skills.module.css";
 import styleContainer from "../common/styles/Container.module.css";
+import Portfolio from "./portfolio/Portfolio";
 
 const MyWorks = () => {
   return (
