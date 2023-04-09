@@ -3,7 +3,7 @@ import './App.css';
 import Header from "./header/Header";
 import Main from "./main/Main";
 import Skills from "./skills/Skills";
-import Skill from "./skills/skill/Skill";
+import MyWorks from "./portfolio/MyWorks";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Header/>
       <Main/>
       <Skills/>
-
+      <MyWorks/>
     </div>
   );
 }
